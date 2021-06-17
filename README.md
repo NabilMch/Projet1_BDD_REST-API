@@ -3,18 +3,18 @@
  Voir la popularité de la nba dans NT.
  
  # Objectif:
-  Recupérer depuis l'API du NT les différent article parlant de sport (Article Search API, Most popular API) et de les comparer au données de la NBA.
+  Recupérer depuis l'API du Skyscanner les différent vols avec le prix, les dates, l'aeroport de depart, aeroport_arrivee   parlant de sport (Article Search API, Most popular API) et de les comparer au données de la NBA.
 
  ## Outils:
  
  ### Les apis utilisé:
- - NT API  
- - NBA Statistics API
+ - Skyscanner Flight Search
+ - WeatherAPI.com
  ### Language et Base de données:
- -JAVA
- -PostgreSQL
+ - JAVA
+ - MySql
 
 # Lien:
-https://developer.nytimes.com/
+https://rapidapi.com/weatherapi/api/weatherapi-com/
 
-https://rapidapi.com/api-sports/api/api-nba
+https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
