@@ -1,9 +1,5 @@
 # Descriptif:
- Rechercher les différentes statistiques du __NBA__ (score, nombre de point...) et voir quel sont les articles du __New York Times__ en lien avec la NBA 
- Voir la popularité de la nba dans NT.
- 
- # Objectif:
-  Recupérer depuis l'API du Skyscanner les différent vols avec le prix, les dates, l'aeroport de depart, aeroport_arrivee   parlant de sport (Article Search API, Most popular API) et de les comparer au données de la NBA.
+ Ce projet permet de recupérer depuis l'API du Skyscanner les  vols avec le prix, les dates, l'aeroport de depart, aeroport_arrivee puis recuperer la meteo depuis l'api    WeatherAPI.com afin de bien choisir le jour du vol 
  
  ![image](https://user-images.githubusercontent.com/58047611/122482551-13aab080-cfd1-11eb-9d92-53408c2ad428.png)
 
